@@ -138,4 +138,5 @@ Results saved to HW_LLM/HW1_prompt/dataset/mmlu_predictions.csv
 * 使用 Google Gemini 2.0 Flash 模型
 * Token 與 Request 控制機制
 
+### 作業排名: 26/130
 [![Competetion Result: 26th of 130](competetion_result.png)](https://github.com/313707045FangShuo/Generative_AI/blob/90b160a1d740484c48a73eca6bc0d2c558a76270/GAI_HW1_Prompt/competetion_result.png)
