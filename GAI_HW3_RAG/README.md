@@ -1,1 +1,1 @@
-<embed src="GAI_HW3_RAG/RAG.pdf" type="application/pdf" width="100%">
+[RAG report](GAI_HW3_RAG/RAG.pdf)
