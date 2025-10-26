@@ -76,4 +76,6 @@ python crawler.py keyword 0301 0315 Yuri
 
   * **輸出**: `keyword_0301_0315_Yuri.json`
 
+### 作業評分:
 [![Scoring](GAI_HW4_PTT_Beauty_Crawler/competetion_result.png)](/GAI_HW4_PTT_Beauty_Crawler/competetion_result.png)
+
