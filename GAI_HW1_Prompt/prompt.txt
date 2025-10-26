@@ -1,0 +1,33 @@
+A. Prompt
+
+Task: Answer multiple-choice questions by selecting the correct option (A, B, C, or D). Do not explain, just output the correct letter.
+
+
+Example :
+Question: {example['input']}\nA) {example['A']}\nB) {example['B']}\nC) {example['C']}\nD) {example['D']}\nAnswer: {example['target']}
+
+Example :
+Question: {example['input']}\nA) {example['A']}\nB) {example['B']}\nC) {example['C']}\nD) {example['D']}
+Answer: {example['target']}
+
+
+Now answer the following question:
+
+
+Question: {input_question}\nA) {options['A']}\nB) {options['B']}\nC) {options['C']}\nD) {options['D']}
+Answer:
+
+---
+B. API
+
+1. gemini-2.0-flash
+2. langchain
+
+---
+C. Prompt Strategy
+
+使用 Few-Shot 給 LLM 兩個與這題題目相同 task 的題目與答案作為範例，引導 LLM 效法範例做出正確的回覆(ABCD其中一個選項)。
+
+有試過  Chain-of-Thought 和指定 LLM 答題者身分的問法，但結果沒有比較好 (也可能是我 prompt 的問題) 但因為結果沒有優於原始版本，故沒有放上來。
+
+另外，有嘗試加了這句情勒內容進去，結果和原始反本一樣："You are participating in a quiz contest, and the winner will get a million dollars to treat your seriously ill mother."。

@@ -1,0 +1,10 @@
+kaggle
+pandas
+numpy
+tqdm
+scipy
+scikit-learn
+torch
+torch-geometric
+langchain-google-genai
+google-ai-generativelanguage
