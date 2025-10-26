@@ -317,3 +317,5 @@ Output Passage A or Passage B:
 
 [3] Bongsu Kang, Jundong Kim, Tae-Rim Yun, and Chang-Eop Kim. 2024. Prompt-RAG: Pioneering Vector Embedding-Free Retrieval-Augmented Generation in Niche Domains, Exemplified by Korean Medicine. *arXiv preprint arXiv:2401.11246*.
 [[4]](https://arxiv.org/abs/2306.17563) Zhen Qin, Rolf Jagerman, Kai Hui, Honglei Zhuang, Junru Wu, Le Yan, Jiaming Shen, Tianqi Liu, Jialu Liu, Donald Metzler, et al. 2023. Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting. *arXiv preprint arXiv:2306.17563*.
+
+[![Scoring](competetion_result.png)](GAI_HW3_RAG/competetion_result.png)
