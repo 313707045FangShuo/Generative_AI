@@ -1,3 +1,5 @@
+[result_preview](GAI_HW5_unconditional_DiffusionModel/result_preview.png)
+[competetion_result: 26th of 100](GAI_HW5_unconditional_DiffusionModel/competetion_result.png)
 ---
 title: HW5_unconditional_DiffusionModel
 
@@ -107,4 +109,3 @@ hw5_313707045.zip
 ├── README.md
 └── requirements.txt
 ```
-
