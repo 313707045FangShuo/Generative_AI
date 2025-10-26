@@ -127,4 +127,6 @@ hw6_313707045.zip
 │   └── train_info.json              # 訓練圖像對應的文字描述
 ├── scoring_program/                 # 評分用程式
 ```
+[![Result Preview](result_preview.png)](https://github.com/313707045FangShuo/Generative_AI/blob/6fdee652c4c90a5877f49d10ba7c7b8c3134911f/GAI_HW6_conditional_DiffusionModel/result_preview.png)
 
+[![Competetion Result: 37th of 100](competetion_result.png)](https://github.com/313707045FangShuo/Generative_AI/blob/6fdee652c4c90a5877f49d10ba7c7b8c3134911f/GAI_HW6_conditional_DiffusionModel/competetion_result.png)
