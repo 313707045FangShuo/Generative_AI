@@ -1,4 +1,4 @@
-# LLM HW2 ---- QLoRA
+# LLM HW2 ---- Paper Abstract Generation
 
 [hackmd version url link](https://hackmd.io/@41eOHZkcS3y8iYNWvrdBig/HJcYteWCkg)
 
@@ -53,4 +53,7 @@ Do not use any information beyond what is provided."
 
 ## testing data 預測
 - Input：test_axolotl_format_llama.json
+
 - Output：output_QWEN2.json
+
+[![Scoring](competetion_result.png)](GAI_HW2_LoRA/competetion_result.png)
