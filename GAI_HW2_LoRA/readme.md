@@ -56,4 +56,6 @@ Do not use any information beyond what is provided."
 
 - Output：output_QWEN2.json
 
+### 作業評分: 
 [![Scoring](competetion_result.png)](GAI_HW2_LoRA/competetion_result.png)
+
