@@ -107,6 +107,8 @@ hw5_313707045.zip
 ├── README.md
 └── requirements.txt
 ```
+### Output 預覽:
 [![Result Preview](result_preview.png)](https://github.com/313707045FangShuo/Generative_AI/blob/75fd63193a26a0726970c169b1c92b61668301da/GAI_HW5_unconditional_DiffusionModel/result_preview.png)
 
+### 作業排名: 26/100
 [![Competetion Result: 26th of 100](competetion_result.png)](https://github.com/313707045FangShuo/Generative_AI/blob/75fd63193a26a0726970c169b1c92b61668301da/GAI_HW5_unconditional_DiffusionModel/competetion_result.png)
